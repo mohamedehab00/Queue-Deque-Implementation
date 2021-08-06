@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1628175699 source:e:\fcib training\phase 1\level 2\1- data structures\code\queue_template\src\queue.cpp
+	"queue.h"
+
+1628203967 e:\fcib training\phase 1\level 2\1- data structures\code\queue_template\include\queue.h
+	<iostream>
+
+1628203580 source:e:\fcib training\phase 1\level 2\1- data structures\code\queue_template\main.cpp
+	<bits/stdc++.h>
+	"queue.h"
+
